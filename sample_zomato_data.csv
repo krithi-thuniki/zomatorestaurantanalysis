@@ -1,0 +1,26 @@
+Restaurant ID,Restaurant Name,Cuisines,Average Cost for two,City,Price range,Aggregate rating,Has Online delivery,Votes
+1,Restaurant A,"Italian, Pizza",500,New Delhi,3,4.1,Yes,505
+2,Restaurant B,Mexican,800,New Delhi,4,4.5,Yes,800
+3,Restaurant C,Chinese,300,Mumbai,2,3.8,No,200
+4,Restaurant D,Indian,700,Mumbai,3,4.0,Yes,1500
+5,Restaurant E,"Italian, Fast Food",400,Bangalore,2,3.5,Yes,150
+6,Restaurant F,North Indian,600,Bangalore,3,4.9,Yes,2500
+7,Restaurant G,South Indian,200,Chennai,1,3.9,No,300
+8,Restaurant H,Chinese,900,Chennai,4,4.2,Yes,950
+9,Restaurant I,Indian,450,Pune,2,3.1,No,50
+10,Restaurant J,Continental,1200,Pune,4,4.6,Yes,1200
+11,Restaurant K,Cafe,350,Hyderabad,2,3.7,Yes,250
+12,Restaurant L,Biryani,750,Hyderabad,3,4.3,Yes,1800
+13,Restaurant M,American,1000,Kolkata,4,4.0,No,400
+14,Restaurant N,Bakery,250,Kolkata,1,3.2,Yes,80
+15,Restaurant O,Thai,850,Ahmedabad,4,4.7,Yes,1100
+16,Restaurant P,Street Food,100,Ahmedabad,1,2.9,No,120
+17,Restaurant Q,Japanese,1500,Jaipur,4,4.4,Yes,700
+18,Restaurant R,Fast Food,300,Jaipur,2,3.6,Yes,450
+19,Restaurant S,Mughlai,1100,Lucknow,4,4.5,No,650
+20,Restaurant T,Desserts,400,Lucknow,2,3.9,Yes,350
+21,Restaurant U,Indian,600,New Delhi,3,4.2,Yes,900
+22,Restaurant V,Chinese,700,Mumbai,3,3.9,No,400
+23,Restaurant W,Italian,900,Bangalore,4,4.8,Yes,1300
+24,Restaurant X,South Indian,150,Chennai,1,3.0,No,100
+25,Restaurant Y,Continental,1400,Pune,4,4.1,Yes,550

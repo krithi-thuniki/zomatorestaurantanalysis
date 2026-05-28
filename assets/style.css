@@ -1,0 +1,72 @@
+/* General Body Styles */
+body {
+    color: #E0E0E0;
+    background-color: #1E1E1E;
+}
+
+/* Main Content Area */
+.main .block-container {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+
+/* Sidebar Styles */
+.css-1d391kg {
+    background-color: #2D2D2D;
+    border-right: 1px solid #444;
+}
+
+/* Container and Card Styles */
+.stContainer, .st-container {
+    border: 1px solid #444;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #2D2D2D;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Button Styles */
+.stButton>button {
+    border-radius: 8px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.stButton>button:hover {
+    background-color: white;
+    color: black;
+    border: 1px solid #4CAF50;
+}
+
+/* Input Widget Styles */
+.stTextInput>div>div>input, .stNumberInput>div>div>input, .stSelectbox>div>div {
+    background-color: #3C3C3C;
+    color: #E0E0E0;
+    border-radius: 8px;
+}
+
+/* Dataframe Styles */
+.stDataFrame {
+    background-color: #2D2D2D;
+    border-radius: 10px;
+}
+
+/* Custom Plotly Chart Container */
+.plot-container {
+    border: 1px solid #444;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: #2D2D2D;
+}
