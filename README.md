@@ -49,18 +49,12 @@ This project is an interactive data analytics and machine learning system that a
 
 ## How to Run
 
-1. **Clone the repository:**
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
-   ```
-
-2. **Install the dependencies:**
+1. **Install the dependencies:**
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Run the Streamlit app:**
+2. **Run the Streamlit app:**
    ```bash
    streamlit run app.py
    ```
